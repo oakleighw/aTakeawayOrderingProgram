@@ -1,4 +1,4 @@
-# A simple C++ Takeaway Ordering Program for a Level 2 Advance Programming module
+# A simple C++ Takeaway Ordering Program for a BSc Computer Science Level 2 Advance Programming module
 
 + Coded with a skeleton c++ "Takeaway.cpp" file. 
 + The program reads from a menu.csv file, and outputs a receipt once an order has been made.
